@@ -1,6 +1,6 @@
 let num=10;
-if(num%3==0){
-  console.log("Even");
+if(num%2==0){
+  console.log("Even Number");
 } else{
-  console.log("odd"):
+  console.log("odd Number"):
 }
